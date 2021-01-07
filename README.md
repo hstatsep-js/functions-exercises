@@ -1,1 +1,1 @@
-# functions-practice
+# functions-exercises
